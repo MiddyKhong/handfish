@@ -1,6 +1,6 @@
 ############################-
 #Garmin photo metadata import script------
-#
+##
 #Description:
 #The primiary role of this script is to import csv file from Garmin Basecamp
 #which contained the metadata from photo taken along a handfish transect. This
